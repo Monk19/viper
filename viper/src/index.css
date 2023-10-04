@@ -1,0 +1,16 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  height: 100vh;
+}
+* {
+  box-sizing: border-box;
+  background-color: rgb(29, 28, 28);
+  color: rgb(252, 252, 252);
+  text-align: center;
+}
+.container,
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+  overflow-x: hidden;
+}

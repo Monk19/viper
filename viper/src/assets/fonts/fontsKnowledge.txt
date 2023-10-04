@@ -1,0 +1,3 @@
+Ways to add font to 
+1.Using @import url('url of the font which is href attribute of the link')
+and then define font with a short name and use it in with that className in files whereEver it is necessary
